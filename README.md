@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdilShaikh-Developer
 - 👀 I’m interested in Programming
-- 🌱 I’m currently Java
+- 🌱 I’m currently Web Developer
 - 💞️ I’m looking to collaborate on any meaningful thing
 - 📫 How to reach me: mail me on shaikhadil.dev@gmail.com
 
